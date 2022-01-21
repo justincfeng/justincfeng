@@ -1,5 +1,6 @@
 - Hi, I’m @justincfeng
 - I’m interested in general relativity and spaceflight.
+- I'm currently learning about neural networks.
 - I’m looking to collaborate on topics related to general relativity, relativistic positioning, modified gravity, and wormholes.
 - You may contact me at justin.feng@tecnico.ulisboa.pt
 
