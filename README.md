@@ -1,6 +1,5 @@
 - Hi, I’m @justincfeng
-- I’m interested in general relativity and gravitation.
-- I’m looking to collaborate on topics related to general relativity, relativistic positioning, modified gravity, and applications of Scientific Machine Learning techniques to gravitation.
+- I’m interested in topics involving general relativity and gravitation
 - You may contact me at justin.feng@tecnico.ulisboa.pt
 
 <!---
